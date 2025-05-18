@@ -87,7 +87,6 @@ async def analyze_planogram(image_content: bytes, planograma_data: dict):
             reasoning={},
             tools=[],
             temperature=0.7,
-            max_output_tokens=2048,
             top_p=1,
             text={"format": {
                 "type": "json_object"

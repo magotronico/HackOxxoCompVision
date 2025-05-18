@@ -1,0 +1,149 @@
+[
+    {
+        "CB": 7501036620956,
+        "Nombre": "Papel Regio Rinde 4pz",
+        "Estante": 2,
+        "Charola": 1,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7506425645466,
+        "Nombre": "Higienico Suavel 325h 4rollos",
+        "Estante": 2,
+        "Charola": 1,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7506425622016,
+        "Nombre": "Higienico Cottonelle Elegance XL 252h",
+        "Estante": 2,
+        "Charola": 1,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7506425600748,
+        "Nombre": "Hig Petalo UltraJumbo 6s 234h",
+        "Estante": 2,
+        "Charola": 1,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7502271155968,
+        "Nombre": "DETERGENTE AZALEA MULTIUSOS 800G",
+        "Estante": 2,
+        "Charola": 2,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7501954903698,
+        "Nombre": "PAPEL HIGIENICO AZALEA 4 ROLLOS 350 HOJAS",
+        "Estante": 2,
+        "Charola": 2,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7502271158891,
+        "Nombre": "PAPEL HIGIENICO AZALEA 4S CON AROMA",
+        "Estante": 2,
+        "Charola": 2,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7502294220513,
+        "Nombre": "Papel Higiénico Azálea 6 Rollos 500 Hojas",
+        "Estante": 2,
+        "Charola": 2,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7501035908246,
+        "Nombre": "Aceite para bebe Baby Magic Mennen 100 ml bote",
+        "Estante": 2,
+        "Charola": 3,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7506425651061,
+        "Nombre": "Shampoo KleenBebe Manzanilla 250ml",
+        "Estante": 2,
+        "Charola": 3,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7501954902318,
+        "Nombre": "Panales Tikytin 14pz T4",
+        "Estante": 2,
+        "Charola": 3,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7501954904664,
+        "Nombre": "Panales Tikytin 14pz T5",
+        "Estante": 2,
+        "Charola": 3,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7502271154114,
+        "Nombre": "Tikytin Ultra talla 5 X-Grande 36/4",
+        "Estante": 2,
+        "Charola": 3,
+        "Posicion_Charola": 5
+    },
+    {
+        "CB": 7501058623188,
+        "Nombre": "NAN 1 OPTIPRO Formula Infantil 12x400gMX",
+        "Estante": 2,
+        "Charola": 3,
+        "Posicion_Charola": 6
+    },
+    {
+        "CB": 7501058623195,
+        "Nombre": "NAN 2 OPTIPRO Formula Infantil 12x400gMX",
+        "Estante": 2,
+        "Charola": 3,
+        "Posicion_Charola": 7
+    },
+    {
+        "CB": 7501058623201,
+        "Nombre": "NAN 3 OPTIPRO FI Lata 12x400g MX",
+        "Estante": 2,
+        "Charola": 3,
+        "Posicion_Charola": 8
+    },
+    {
+        "CB": 7501954905043,
+        "Nombre": "AGUA BIOLEVE 1.5 LTS",
+        "Estante": 2,
+        "Charola": 4,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7502271154695,
+        "Nombre": "AGUA ALCALINA VITAWA 1.5 LTS",
+        "Estante": 2,
+        "Charola": 4,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7502271153674,
+        "Nombre": "AGUA ALCALINA VITAWA 1LT",
+        "Estante": 2,
+        "Charola": 4,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7502271154718,
+        "Nombre": "Agua Bioleve 1L 6pack",
+        "Estante": 2,
+        "Charola": 4,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7502271158273,
+        "Nombre": "AGUA PURIFICADA BIOLEVE 0.5L 8 PACK",
+        "Estante": 2,
+        "Charola": 4,
+        "Posicion_Charola": 5
+    }
+]

@@ -1,0 +1,352 @@
+[
+    {
+        "CB": 7501045400846,
+        "Nombre": "Atun Dolores aceite 295gr lata",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7506425612673,
+        "Nombre": "Kotex Notcurna Ultradelgada CA 10s",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7501045403014,
+        "Nombre": "ATUN DOLORES EN ACEITE 130GRS",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7506339394719,
+        "Nombre": "Naturella Nocturna con alas 8 pzas",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7501019006647,
+        "Nombre": "Saba UltraDelagada Nocturna calas 10pz",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7501045404271,
+        "Nombre": "Atun Mazatun Agua Sin Soya 130grs",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7501027286024,
+        "Nombre": "Desodorante Obao AntiT Hombre Rollon 65g",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7501045404066,
+        "Nombre": "DOLORES ENSALADA CON VERDURAS MAXI CUP CAN 240gr",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7501045403069,
+        "Nombre": "Dolores SURFY  Cup Can Elotitos 24/ 135 gr",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 5
+    },
+    {
+        "CB": 7791293025810,
+        "Nombre": "Desodorante AXE Fusion 150ml",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 5
+    },
+    {
+        "CB": 7501045402833,
+        "Nombre": "Ensalada Atun Mazatun  CupCan",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 6
+    },
+    {
+        "CB": 7791293032436,
+        "Nombre": "Desodorante Rexona AER 90gr",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 6
+    },
+    {
+        "CB": 7500435129947,
+        "Nombre": "Gillette Gel Mini Cool Wave 45gr",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 7
+    },
+    {
+        "CB": 7501954903421,
+        "Nombre": "Papel aluminio festivo rollo 76 m X 30 cm pz",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 7
+    },
+    {
+        "CB": 7500435143189,
+        "Nombre": "Secret Barra Powder Protect 45g",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 8
+    },
+    {
+        "CB": 7500435231237,
+        "Nombre": "SHAMPOO HEAD AND SHOULDERS ANTI-COMEZON 375ML",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 9
+    },
+    {
+        "CB": 7500435243155,
+        "Nombre": "PANTENE SHAMPOO KERATINA 175ML",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 10
+    },
+    {
+        "CB": 7501000904228,
+        "Nombre": "Alimento para bebe 2a Etapa Gerber 113 gr frasco Verduras con pollo y arroz",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 11
+    },
+    {
+        "CB": 7506306246065,
+        "Nombre": "Zest Neutro Antibacterial 135gr",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 12
+    },
+    {
+        "CB": 7501055304745,
+        "Nombre": "REFRESCO COCA-COLA 3 LT BOTELLA NO RETORNABLE COLA",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 13
+    },
+    {
+        "CB": 7501055317653,
+        "Nombre": "POWERADE MORAST",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 14
+    },
+    {
+        "CB": 7501055358861,
+        "Nombre": "FUZE TEA NEGRO SABOR LIMONT",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 15
+    },
+    {
+        "CB": 7501954906644,
+        "Nombre": "Cafe Molido Andatti 250gr",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 16
+    },
+    {
+        "CB": 650240064326,
+        "Nombre": "SUEROX MORA AZUL CON HIERBABUENA 1L",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 17
+    },
+    {
+        "CB": 7501011143586,
+        "Nombre": "CHEETOS TORCIDITOS 58GR",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 18
+    },
+    {
+        "CB": 7501011123588,
+        "Nombre": "DORITOS NACHO 61GR",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 19
+    },
+    {
+        "CB": 7501045403823,
+        "Nombre": "Atun Dorado Aceite 285grs",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 20
+    },
+    {
+        "CB": 7501058631961,
+        "Nombre": "NESTLE LA LECHERA CONDENSADA DOYPACK 209 GR",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 21
+    },
+    {
+        "CB": 7501943471900,
+        "Nombre": "Toallitas Humedas KBB Absorsec 120pz",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 22
+    },
+    {
+        "CB": 7502247337169,
+        "Nombre": "Papel Higienico Premier 225 hojas dobles 6 rollos",
+        "Estante": 1,
+        "Charola": 1,
+        "Posicion_Charola": 23
+    },
+    {
+        "CB": 7502271153605,
+        "Nombre": "PLC NUTRALAT FORTE 1.5 LT",
+        "Estante": 1,
+        "Charola": 2,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7501954903292,
+        "Nombre": "PLC NUTRALAT FORTE 1LT",
+        "Estante": 1,
+        "Charola": 2,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7501059278868,
+        "Nombre": "La Lechera Sirve Facil 335gr Bote",
+        "Estante": 1,
+        "Charola": 2,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7501058628831,
+        "Nombre": "CARNATION Leche Evaporada 720g",
+        "Estante": 1,
+        "Charola": 2,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7502271156736,
+        "Nombre": "Azucar Estandar La Posada 1 kg",
+        "Estante": 1,
+        "Charola": 2,
+        "Posicion_Charola": 5
+    },
+    {
+        "CB": 7501954907788,
+        "Nombre": "Arroz La Posada 900 gr",
+        "Estante": 1,
+        "Charola": 2,
+        "Posicion_Charola": 6
+    },
+    {
+        "CB": 7502294221763,
+        "Nombre": "CAFE SOLUBLE ANDATTI DESCAFEINADO 275G",
+        "Estante": 1,
+        "Charola": 3,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7502271155920,
+        "Nombre": "Cafe Soluble Andatti 275g",
+        "Estante": 1,
+        "Charola": 3,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7502294221138,
+        "Nombre": "ACEITE VEGETAL LA POSADA 800 ML",
+        "Estante": 1,
+        "Charola": 3,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7501039121610,
+        "Nombre": "Aceite Comestible Nutrioli 850ml",
+        "Estante": 1,
+        "Charola": 3,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7501039121993,
+        "Nombre": "ACEITE NUTRIOLI 400 ML",
+        "Estante": 1,
+        "Charola": 3,
+        "Posicion_Charola": 5
+    },
+    {
+        "CB": 7501039122099,
+        "Nombre": "Sabrosano Mantequila 850 ml",
+        "Estante": 1,
+        "Charola": 3,
+        "Posicion_Charola": 6
+    },
+    {
+        "CB": 7501052421391,
+        "Nombre": "Frijol La Sierra Chorizo 430 bolsa",
+        "Estante": 1,
+        "Charola": 3,
+        "Posicion_Charola": 7
+    },
+    {
+        "CB": 7501954908914,
+        "Nombre": "Frijol Pinto La Posada 900gr",
+        "Estante": 1,
+        "Charola": 3,
+        "Posicion_Charola": 8
+    },
+    {
+        "CB": 7502271154633,
+        "Nombre": "Chicharron de Cerdo Natural Bitz 120 gr",
+        "Estante": 1,
+        "Charola": 4,
+        "Posicion_Charola": 1
+    },
+    {
+        "CB": 7502294221626,
+        "Nombre": "Chicharron de Cerdo Intenso Bitz 120 gr.",
+        "Estante": 1,
+        "Charola": 4,
+        "Posicion_Charola": 2
+    },
+    {
+        "CB": 7501011167728,
+        "Nombre": "CHEETOS TORCIDITOS 240GR",
+        "Estante": 1,
+        "Charola": 4,
+        "Posicion_Charola": 3
+    },
+    {
+        "CB": 7500478007981,
+        "Nombre": "RUFFLES QUESO 185GR",
+        "Estante": 1,
+        "Charola": 4,
+        "Posicion_Charola": 4
+    },
+    {
+        "CB": 7501000266203,
+        "Nombre": "Papas Chips Barcel 170 gr bolsa con sal",
+        "Estante": 1,
+        "Charola": 4,
+        "Posicion_Charola": 5
+    },
+    {
+        "CB": 7500810018378,
+        "Nombre": "Takis Blue 75g",
+        "Estante": 1,
+        "Charola": 4,
+        "Posicion_Charola": 6
+    }
+]

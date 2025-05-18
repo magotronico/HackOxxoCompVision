@@ -2,7 +2,7 @@ import requests
 import json
 
 # File paths for your image and JSON
-image_path = "../files/img0.jpg"
+image_path = "../files/estante1.jpg"
 json_path = "../files/HackOxxo.json"
 
 # Load image file
@@ -20,7 +20,9 @@ url = "http://localhost:8000/analyze-shelf/"
 
 # Prepare data and files
 store_id = "STORE123"
-files = {"image": ("img0.jpg", image_data, "image/jpeg")}
+with open("../files/productos_estante_1.json", "r") as f:
+    planogram_data = json.load(f)
+files = {"image": ("estante1.jpg", image_data, "image/jpeg")}
 data = {"store_id": store_id, "planograma": json.dumps(planogram_data)}
 
 print("Prepared data for API call.")
