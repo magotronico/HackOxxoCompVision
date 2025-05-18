@@ -1,7 +1,6 @@
 from fastapi import FastAPI, File, Form, UploadFile
 from fastapi.responses import JSONResponse
 import base64
-import aiohttp
 import os
 from dotenv import load_dotenv
 import json
@@ -20,85 +19,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def encode_image_bytes(content: bytes) -> str:
     return base64.b64encode(content).decode("utf-8")
 
-
-# Call GPT-4 Vision to find planogram errors
-# async def analyze_planogram(image_content: bytes, planograma_data: dict):
-#     base64_image = encode_image_bytes(image_content)
-
-#     headers = {
-#         "Authorization": f"Bearer {gpt4v_key}",
-#         "Content-Type": "application/json"
-#     }
-
-#     system_message = """
-#         You are an expert in detecting product placement errors on retail shelves.
-#         Respond in a clear, structured, and professional manner. Prioritize accuracy and brevity.
-#         Return only the relevant data or analysis requested, without additional commentary.
-#         If you complete the task successfully you will receive a reward, if you fail to complete the task you will be penalized.
-#     """
-
-#     user_message = """
-#         Your task is to analyze the list of products below and identify errors in shelf organization. There are two types of possible errors:
-#         1. **Empty Spot** - A position on the shelf that should be occupied but is currently empty.
-#         2. **Product Misplaced** - A product is found in a location where it should not be.
-
-#         Please analyze the shelf layout using the following guidelines:
-#         - Each "Charola" represents a shelf level (starting from the bottom as Charola 1).
-#         - Each "Posicion en Charola" represents the horizontal position on that shelf, from left to right.
-#         - Each "Cantidad de Frentes" represents the number of the same product that should be displayed starting from the left on the "Posicion en Charola".
-#         - Treat the shelf as a 2D Cartesian grid where the bottom-left corner is coordinate **(1, 1)**.
-#         - Coordinates are defined as **(x, y)**, where:
-#         - **x** is the position from left to right (Posicion en Charola),
-#         - **y** is the vertical level (Charola).
-
-#         Return the identified issues in the following JSON format:
-#         ```json
-#         [
-#             {
-#                 "error_type": "empty_spot",
-#                 "coordinates": "(x, y)"
-#             },
-#             {
-#                 "error_type": "product_misplaced",
-#                 "coordinates": "(x, y)",
-#                 "CB": "product_code"
-#             }
-#         ]
-#         ```
-#     """
-
-#     payload = {
-#         "model": "gpt-4o",
-#         "messages": [
-#             {
-#                 "role": "user",
-#                 "content": [
-#                     {"role": "system", "content": system_message},
-#                     {"type": "text", "text": user_message},
-#                     {"type": "text", "text": f"List of Products:\n{json.dumps(planograma_data, indent=2)}"},
-#                     {
-#                         "type": "image_url",
-#                         "image_url": {
-#                             "url": f"data:image/jpeg;base64,{base64_image}"
-#                         }
-#                     }
-#                 ]
-#             }
-#         ],
-#         "max_tokens": 1000
-#     }
-
-#     async with aiohttp.ClientSession() as session:
-#         async with session.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload) as response:
-#             try:
-#                 response_json = await response.json()
-#                 print("GPT response:", response_json)  # Debugging line
-#                 result_text = response_json["choices"][0]["message"]["content"]
-
-#                 return json.loads(result_text)  # Ensure GPT returns valid JSON
-#             except Exception as e:
-#                 print("Error processing GPT response:", e)
-#                 return {"error": "Failed to process image or invalid response format"}
+# Analyze the planogram using OpenAI's GPT-4
 async def analyze_planogram(image_content: bytes, planograma_data: dict):
     base64_image = encode_image_bytes(image_content)
 
